@@ -23,3 +23,6 @@ Click on the dataset link to view the JSON representation of the earthquake data
   3. Include popups that provide additional information for each earthquake.
 
   4. Create a legend that provides context for the map data.
+
+![Image 7-31-23 at 6 04 PM](https://github.com/jessnguyen9/leaflet-challenge/assets/128268114/6ce83b2b-f43d-45c4-bdea-a3cef3f820c6)
+
